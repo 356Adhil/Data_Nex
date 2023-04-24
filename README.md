@@ -8,6 +8,14 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
 
+#### First change directory to backend folder:
+
+2. Install the dependencies using the following command:
+
+* npm install
+
+#### First change directory to frontend folder:
+
 2. Install the dependencies using the following command:
 
 * npm install
@@ -20,7 +28,7 @@ DB_CONNECT = 'mongodb://localhost/image-upload'
 
 Note: Make sure to add the `.env` file to your `.gitignore` file to prevent it from being pushed to the remote repository.
 
-4. Start the application using the following command:
+4. Start the application using the following command ( Both in Backend and Frontend ) :
 
 * npm start
 
