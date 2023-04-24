@@ -15,6 +15,7 @@ npm install
 3. Create a `.env` file in the backend folder with the following format:
 
 PORT = 5000
+
 DB_CONNECT = 'mongodb://localhost/image-upload'
 
 Note: Make sure to add the `.env` file to your `.gitignore` file to prevent it from being pushed to the remote repository.
